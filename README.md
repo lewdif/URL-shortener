@@ -1,6 +1,8 @@
 # URL-shortener
 Simple URL shortener based on Nodejs and MySQL
+
 Created by JunYoung Lee
+
 
 
 This code usees MySQL to save data(id, long url, short url).
