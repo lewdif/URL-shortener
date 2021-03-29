@@ -2,7 +2,7 @@
 Simple URL shortener based on Nodejs and MySQL
 
 
-This code usees MySQL to save data(id, long url, short url).
+This code uses MySQL to save data(id, long url, short url).
 
 Uses 62 letters to encode data's id number.
 
